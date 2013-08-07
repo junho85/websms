@@ -2,12 +2,14 @@
   "version": "0.0.1",
   "name": "junho test",
   "description": "I want to test WebSMS",
+  "type": "certified",
   "launch_path": "index.html",
   "icons": {
     "64": "/images/icon-64.png",
     "256": "/images/icon-256.png"
   },
   "permissions": {
+	  "sms":{}
   },
   "developer": {
     "name": "junho85",
