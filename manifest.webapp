@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "name": "junho test",
+  "description": "I want to test WebSMS",
+  "launch_path": "index.html",
+  "icons": {
+    "64": "/images/icon-64.png",
+    "256": "/images/icon-256.png"
+  },
+  "permissions": {
+  },
+  "developer": {
+    "name": "junho85",
+    "url": "http://junho85.pe.kr"
+  },
+  "default_locale": "en"
+}
